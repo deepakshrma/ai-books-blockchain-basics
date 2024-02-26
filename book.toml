@@ -1,0 +1,6 @@
+[book]
+authors = ["Deepak Vishwakarma"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Blockchain Basics: A Guide to Ethereum and Beyond"
