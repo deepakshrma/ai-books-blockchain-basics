@@ -1,23 +1,10 @@
 # Summary
 ## 
-write elaborated chapter "Introduction to Ethereum" about my book
-write elaborated chapter "How Ethereum differs from Bitcoin" about my book
-write elaborated chapter "Smart contracts and their significance" about my book
-write elaborated chapter "Ether (ETH) cryptocurrenc" about my book
 
-- Introduction to Blockchain Technology
-  - Definition of blockchain
-  - Overview of decentralized systems
-  - Brief history of blockchain technology
-- Understanding Ethereum
-  - Introduction to Ethereum
-  - How Ethereum differs from Bitcoin
-  - Smart contracts and their significance
-  - Ether (ETH) cryptocurrency
-- Key Concepts of Ethereum
-  - Ethereum Virtual Machine (EVM)
-  - Gas and transaction fees
-  - Nodes and network architecture
+write overview on chapter "Getting Started with Ethereum" about my book
+
+write elaborated chapter with diagram "Exploring Ethereum Development" about my book
+
 - Getting Started with Ethereum
   - Setting up a wallet
   - Buying and storing Ether
