@@ -16,3 +16,6 @@ git-repository-url = "https://github.com/deepakshrma/ai-books-blockchain-basics"
 enable = true
 limit-results = 10
 boost-title = 2
+
+#Generate Sitemap
+# mdbook-sitemap-generator -d decipher.dev/ai-books-blockchain-basics -o sitemap.xml 
