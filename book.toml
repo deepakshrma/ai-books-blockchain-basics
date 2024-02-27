@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Blockchain Basics: A Guide to Ethereum and Beyond"
+
+[output.html]
+google-analytics = "G-VX1V9NRMDC"
+
+[output.html.search]
+enable = true
