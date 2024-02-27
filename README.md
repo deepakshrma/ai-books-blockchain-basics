@@ -1,14 +1,10 @@
 # Summary
 ## 
 
-write overview on chapter "Getting Started with Ethereum" about my book
+write overview on chapter "Smart Contracts" about my book
 
-write elaborated chapter with diagram "Exploring Ethereum Development" about my book
+write chapter with diagram "Writing and deploying smart contracts" about my book
 
-- Getting Started with Ethereum
-  - Setting up a wallet
-  - Buying and storing Ether
-  - Interacting with the Ethereum network
 - Smart Contracts
   - What are smart contracts?
   - Writing and deploying smart contracts

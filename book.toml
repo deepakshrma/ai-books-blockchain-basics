@@ -4,9 +4,15 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Blockchain Basics: A Guide to Ethereum and Beyond"
+description = "A Guide to Ethereum and Beyond, is AI generated book. It is edited to bring the knowledge of blockchain to user."
+
 
 [output.html]
 google-analytics = "G-VX1V9NRMDC"
+edit-url-template = "https://github.com/deepakshrma/ai-books-blockchain-basics/edit/main/{path}"
+git-repository-url = "https://github.com/deepakshrma/ai-books-blockchain-basics"
 
 [output.html.search]
 enable = true
+limit-results = 10
+boost-title = 2
