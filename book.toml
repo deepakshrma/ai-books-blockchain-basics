@@ -19,3 +19,5 @@ boost-title = 2
 
 #Generate Sitemap
 # mdbook-sitemap-generator -d decipher.dev/ai-books-blockchain-basics -o sitemap.xml 
+# sed -i 's/urls>/url>/g' sitemap.xml 
+# sed -i 's/xlmns/xmlns/g' sitemap.xml 
